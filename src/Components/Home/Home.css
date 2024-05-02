@@ -1,0 +1,28 @@
+.header-container {
+  text-align: center;
+  margin: 3rem auto;
+  text-transform: capitalize;
+  color: #2874a6;
+}
+
+.search-container {
+  display: block;
+  margin: 4rem auto;
+  width: 40%;
+}
+.search-container input {
+  border: 1px solid #3498db;
+}
+
+.recipe-items-container {
+  width: 80%;
+  margin: auto;
+  display: block;
+}
+
+.loder {
+  margin: auto;
+  display: block;
+  width: 40%;
+  text-align: center;
+}

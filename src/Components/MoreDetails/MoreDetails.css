@@ -1,0 +1,17 @@
+.recipe-details-container {
+  margin: 5rem auto;
+  width: 70%;
+  display: block;
+}
+
+.recipe-details-container p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+.recipe-details-container img {
+  height: 450px;
+  width: 100%;
+  margin: auto;
+  display: block;
+}
